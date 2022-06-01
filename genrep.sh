@@ -1,5 +1,3 @@
-# Name: Tay How Yang Gilbert 
-# Student ID: 10512374
 #!/bin/bash
 
 # At the start, grep is used to grab all lines that start with the <tr> tag. The result is then piped to sed
